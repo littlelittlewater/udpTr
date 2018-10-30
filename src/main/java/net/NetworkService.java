@@ -94,6 +94,9 @@ public class NetworkService {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+
+
+
         }
     }
 }
